@@ -3,7 +3,7 @@
             }
             body{
                 font-family: helvetica;
-                background-color: #dbd2de;
+                background-color:#faf2fd;
                 color:rgb(26, 5, 31); 
             }
             h1{
@@ -20,8 +20,8 @@
             
             
             .code{
-                border:#a46cb5 2px solid; 
-                background-color:#af7cbe;
+                border:#ccadd5 2px solid; 
+                background-color:#e8d4ef;
                 border-radius: 10px;
                 padding: 5px;
                 margin: 15px;

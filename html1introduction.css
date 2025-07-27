@@ -3,7 +3,7 @@
             }
             body{
                 font-family: helvetica;
-               background-color: #dabde3;
+               background-color: #f7e3fd;
                 color:rgb(239, 225, 242); 
             }
             h1{
@@ -69,7 +69,6 @@
                 color:#e8acfb;
             }
             .main{
-                background-color: #4c2358;
                 margin: 10px;
             }
              span{
