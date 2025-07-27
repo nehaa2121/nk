@@ -95,8 +95,8 @@ img{
   padding: 10px;
 }
 @media screen and (max-width:600px)  {
-  body{
-    background-color: #dabde3;
+body{
+    background-color: #faf2fd;
     font-family: HELVETICA;
     color: #4c2358;
 }
