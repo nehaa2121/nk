@@ -13,9 +13,12 @@
            
             h3{
                 font-size: 30px;
+                color: #4c2358;
+                margin-bottom: 10px;
             }
             h2{
                 font-size: 40px;
+                color: #4c2358;
             }
             
             
@@ -72,7 +75,16 @@
             }
             table tr th td{
                 border-collapse: collapse;
+            }
+            table{
                 border: 1px solid black;
+                width: 100%;
+            }
+            th{
+                background-color: #e0c1ef;
+            }
+            td{
+                background-color: #f7ebfc;
             }
 
             
